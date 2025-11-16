@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoGallery-primary.dia",
+    "emit-module-dependencies" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoGallery-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoGallery-primary-emit-module.dia",
+    "pch" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoGallery-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoGallery-primary.swiftdeps"
+  },
+  "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/alkir/Development/cardsholder/PhotoGallery/ContentView.swift" : {
+    "const-values" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/alkir/Development/cardsholder/PhotoGallery/PhotoGalleryApp.swift" : {
+    "const-values" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoGalleryApp.swiftconstvalues",
+    "dependencies" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoGalleryApp.d",
+    "diagnostics" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoGalleryApp.dia",
+    "index-unit-output-path" : "/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoGalleryApp.o",
+    "llvm-bc" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoGalleryApp.bc",
+    "object" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoGalleryApp.o",
+    "swift-dependencies" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoGalleryApp.swiftdeps",
+    "swiftmodule" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoGalleryApp~partial.swiftmodule"
+  },
+  "/Users/alkir/Development/cardsholder/PhotoGallery/ViewModels/PhotoLibraryViewModel.swift" : {
+    "const-values" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoLibraryViewModel.swiftconstvalues",
+    "dependencies" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoLibraryViewModel.d",
+    "diagnostics" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoLibraryViewModel.dia",
+    "index-unit-output-path" : "/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoLibraryViewModel.o",
+    "llvm-bc" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoLibraryViewModel.bc",
+    "object" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoLibraryViewModel.o",
+    "swift-dependencies" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoLibraryViewModel.swiftdeps",
+    "swiftmodule" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoLibraryViewModel~partial.swiftmodule"
+  },
+  "/Users/alkir/Development/cardsholder/PhotoGallery/Views/FullscreenPhotoView.swift" : {
+    "const-values" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/FullscreenPhotoView.swiftconstvalues",
+    "dependencies" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/FullscreenPhotoView.d",
+    "diagnostics" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/FullscreenPhotoView.dia",
+    "index-unit-output-path" : "/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/FullscreenPhotoView.o",
+    "llvm-bc" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/FullscreenPhotoView.bc",
+    "object" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/FullscreenPhotoView.o",
+    "swift-dependencies" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/FullscreenPhotoView.swiftdeps",
+    "swiftmodule" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/FullscreenPhotoView~partial.swiftmodule"
+  },
+  "/Users/alkir/Development/cardsholder/PhotoGallery/Views/PermissionViews.swift" : {
+    "const-values" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PermissionViews.swiftconstvalues",
+    "dependencies" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PermissionViews.d",
+    "diagnostics" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PermissionViews.dia",
+    "index-unit-output-path" : "/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PermissionViews.o",
+    "llvm-bc" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PermissionViews.bc",
+    "object" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PermissionViews.o",
+    "swift-dependencies" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PermissionViews.swiftdeps",
+    "swiftmodule" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PermissionViews~partial.swiftmodule"
+  },
+  "/Users/alkir/Development/cardsholder/PhotoGallery/Views/PhotoThumbnailView.swift" : {
+    "const-values" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoThumbnailView.swiftconstvalues",
+    "dependencies" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoThumbnailView.d",
+    "diagnostics" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoThumbnailView.dia",
+    "index-unit-output-path" : "/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoThumbnailView.o",
+    "llvm-bc" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoThumbnailView.bc",
+    "object" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoThumbnailView.o",
+    "swift-dependencies" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoThumbnailView.swiftdeps",
+    "swiftmodule" : "/Users/alkir/Development/cardsholder/DerivedData/Build/Intermediates.noindex/PhotoGallery.build/Debug-iphonesimulator/PhotoGallery.build/Objects-normal/x86_64/PhotoThumbnailView~partial.swiftmodule"
+  }
+}
