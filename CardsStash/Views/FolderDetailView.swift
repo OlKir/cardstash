@@ -62,8 +62,7 @@ struct FolderDetailView: View {
                     Button {
                         isShowingPicker = true
                     } label: {
-                        Label("Add Images", systemImage: "plus")
-                            .labelStyle(.iconOnly)
+                        Image(systemName: "plus")
                     }
                     .accessibilityLabel("Add images to \(folder.name)")
                 }
