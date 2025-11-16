@@ -24,9 +24,12 @@ struct FolderListView: View {
                             )
                         }
                         .contextMenu {
-                            Button("Rename") {
-                                presentRename(for: folder)
-                            }
+                          Button {
+                            presentRename(for: folder)
+                          } label: {
+                            Label("Rename", systemImage: "pencil")
+                          }
+                            
                             Button(role: .destructive) {
                                 folderPendingDeletion = folder
                             } label: {
@@ -55,8 +58,9 @@ struct FolderListView: View {
                 Button {
                     presentNewFolder()
                 } label: {
-                    Label("Add Folder", systemImage: "folder.badge.plus")
+                  Image(systemName: "folder.badge.plus")
                 }
+                .accessibilityLabel("Add Folder")
             }
         }
         .sheet(isPresented: $isPresentingFolderForm) {

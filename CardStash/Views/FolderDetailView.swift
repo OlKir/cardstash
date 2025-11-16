@@ -9,12 +9,13 @@ struct FolderDetailView: View {
 
     @State private var pickerSelection: [PhotosPickerItem] = []
     @State private var fullscreenSelection: FullscreenPresentation?
+    @State private var isShowingPicker = false
 
     private let columns = [GridItem(.adaptive(minimum: 120), spacing: 12)]
 
     var body: some View {
         Group {
-            if let folder {
+            if folder != nil {
                 VStack(spacing: 16) {
                     if images.isEmpty {
                         emptyState
@@ -57,19 +58,24 @@ struct FolderDetailView: View {
         }
         .toolbar {
             if let folder {
-                ToolbarItem(placement: .primaryAction) {
-                    PhotosPicker(
-                        selection: $pickerSelection,
-                        maxSelectionCount: 0,
-                        matching: .images,
-                        preferredItemEncoding: .automatic
-                    ) {
+                ToolbarItem(placement: .topBarTrailing) {
+                    Button {
+                        isShowingPicker = true
+                    } label: {
                         Label("Add Images", systemImage: "plus")
+                            .labelStyle(.iconOnly)
                     }
                     .accessibilityLabel("Add images to \(folder.name)")
                 }
             }
         }
+        .photosPicker(
+            isPresented: $isShowingPicker,
+            selection: $pickerSelection,
+            maxSelectionCount: 0,
+            matching: .images,
+            preferredItemEncoding: .automatic
+        )
     }
 
     private var folder: Folder? {

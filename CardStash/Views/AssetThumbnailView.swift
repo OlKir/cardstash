@@ -14,16 +14,20 @@ struct AssetThumbnailView: View {
     @State private var isMissingAsset = false
 
     var body: some View {
-        ZStack {
-            if let thumbnail {
-                Image(uiImage: thumbnail)
-                    .resizable()
-                    .scaledToFill()
-                    .clipShape(RoundedRectangle(cornerRadius: cornerRadius))
-            } else {
-                RoundedRectangle(cornerRadius: cornerRadius)
-                    .fill(Color.secondary.opacity(0.2))
-                    .overlay(placeholderContent)
+        GeometryReader { geometry in
+            ZStack {
+                if let thumbnail {
+                    Image(uiImage: thumbnail)
+                        .resizable()
+                        .scaledToFill()
+                        .frame(width: geometry.size.width, height: geometry.size.width)
+                        .clipShape(RoundedRectangle(cornerRadius: cornerRadius))
+                } else {
+                    RoundedRectangle(cornerRadius: cornerRadius)
+                        .fill(Color.secondary.opacity(0.2))
+                        .overlay(placeholderContent)
+                        .frame(width: geometry.size.width, height: geometry.size.width)
+                }
             }
         }
         .aspectRatio(1, contentMode: .fit)
