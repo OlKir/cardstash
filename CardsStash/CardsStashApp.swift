@@ -2,7 +2,7 @@ import SwiftUI
 import Photos
 
 @main
-struct CardStashApp: App {
+struct CardsStashApp: App {
     @StateObject private var photoLibrary = PhotoLibraryViewModel()
     @StateObject private var galleryStore = GalleryDataStore()
 

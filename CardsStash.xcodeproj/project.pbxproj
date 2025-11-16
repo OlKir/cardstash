@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1E03A6F02C8AD7EA00E58B5F /* CardStashApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E03A6D12C8AD7EA00E58B5F /* CardStashApp.swift */; };
+		1E03A6F02C8AD7EA00E58B5F /* CardsStashApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E03A6D12C8AD7EA00E58B5F /* CardsStashApp.swift */; };
 		1E03A6F12C8AD7EA00E58B5F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E03A6D22C8AD7EA00E58B5F /* ContentView.swift */; };
 		1E03A6F22C8AD7EA00E58B5F /* PhotoLibraryViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E03A6D32C8AD7EA00E58B5F /* PhotoLibraryViewModel.swift */; };
 		1E03A6F42C8AD7EA00E58B5F /* FullscreenPhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E03A6D52C8AD7EA00E58B5F /* FullscreenPhotoView.swift */; };
@@ -24,8 +24,8 @@
 
 /* Begin PBXFileReference section */
 		1E03A6C72C8AD7EA00E58B5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1E03A6C82C8AD7EA00E58B5F /* CardStash.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CardStash.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1E03A6D12C8AD7EA00E58B5F /* CardStashApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardStashApp.swift; sourceTree = "<group>"; };
+		1E03A6C82C8AD7EA00E58B5F /* CardsStash.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CardsStash.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1E03A6D12C8AD7EA00E58B5F /* CardsStashApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardsStashApp.swift; sourceTree = "<group>"; };
 		1E03A6D22C8AD7EA00E58B5F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1E03A6D32C8AD7EA00E58B5F /* PhotoLibraryViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoLibraryViewModel.swift; sourceTree = "<group>"; };
 		1E03A6D52C8AD7EA00E58B5F /* FullscreenPhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullscreenPhotoView.swift; sourceTree = "<group>"; };
@@ -54,7 +54,7 @@
 		1E03A6BB2C8AD7EA00E58B5F = {
 			isa = PBXGroup;
 			children = (
-				1E03A6E02C8AD7EA00E58B5F /* CardStash */,
+				1E03A6E02C8AD7EA00E58B5F /* CardsStash */,
 				1E03A6BC2C8AD7EA00E58B5F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -62,15 +62,15 @@
 		1E03A6BC2C8AD7EA00E58B5F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1E03A6C82C8AD7EA00E58B5F /* CardStash.app */,
+				1E03A6C82C8AD7EA00E58B5F /* CardsStash.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1E03A6E02C8AD7EA00E58B5F /* CardStash */ = {
+		1E03A6E02C8AD7EA00E58B5F /* CardsStash */ = {
 			isa = PBXGroup;
 			children = (
-				1E03A6D12C8AD7EA00E58B5F /* CardStashApp.swift */,
+				1E03A6D12C8AD7EA00E58B5F /* CardsStashApp.swift */,
 				1E03A6D22C8AD7EA00E58B5F /* ContentView.swift */,
 				2CCB536E05404CEC854F8A0503C751B8 /* Models */,
 				1E03A6E22C8AD7EA00E58B5F /* ViewModels */,
@@ -79,7 +79,7 @@
 				1E03A6E42C8AD7EA00E58B5F /* PreviewContent */,
 				1E03A6C72C8AD7EA00E58B5F /* Info.plist */,
 			);
-			path = CardStash;
+			path = CardsStash;
 			sourceTree = "<group>";
 		};
 		1E03A6E12C8AD7EA00E58B5F /* Views */ = {
@@ -123,9 +123,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1E03A6BD2C8AD7EA00E58B5F /* CardStash */ = {
+		1E03A6BD2C8AD7EA00E58B5F /* CardsStash */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1E03A6C12C8AD7EA00E58B5F /* Build configuration list for PBXNativeTarget "CardStash" */;
+			buildConfigurationList = 1E03A6C12C8AD7EA00E58B5F /* Build configuration list for PBXNativeTarget "CardsStash" */;
 			buildPhases = (
 				1E03A6C02C8AD7EA00E58B5F /* Sources */,
 				1E03A6BE2C8AD7EA00E58B5F /* Frameworks */,
@@ -135,9 +135,9 @@
 			);
 			dependencies = (
 			);
-			name = CardStash;
-			productName = CardStash;
-			productReference = 1E03A6C82C8AD7EA00E58B5F /* CardStash.app */;
+			name = CardsStash;
+			productName = CardsStash;
+			productReference = 1E03A6C82C8AD7EA00E58B5F /* CardsStash.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -155,7 +155,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1E03A6C22C8AD7EA00E58B5F /* Build configuration list for PBXProject "CardStash" */;
+			buildConfigurationList = 1E03A6C22C8AD7EA00E58B5F /* Build configuration list for PBXProject "CardsStash" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -168,7 +168,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1E03A6BD2C8AD7EA00E58B5F /* CardStash */,
+				1E03A6BD2C8AD7EA00E58B5F /* CardsStash */,
 			);
 		};
 /* End PBXProject section */
@@ -192,7 +192,7 @@
 			files = (
 				1E03A6F52C8AD7EA00E58B5F /* PermissionViews.swift in Sources */,
 				1E03A6F42C8AD7EA00E58B5F /* FullscreenPhotoView.swift in Sources */,
-				1E03A6F02C8AD7EA00E58B5F /* CardStashApp.swift in Sources */,
+		1E03A6F02C8AD7EA00E58B5F /* CardsStashApp.swift in Sources */,
 				1E03A6F22C8AD7EA00E58B5F /* PhotoLibraryViewModel.swift in Sources */,
 				1E03A6F12C8AD7EA00E58B5F /* ContentView.swift in Sources */,
 				288577DFDD794C4BA0747E2C0D819725 /* GalleryModels.swift in Sources */,
@@ -214,10 +214,10 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "CardStash/PreviewContent";
+				DEVELOPMENT_ASSET_PATHS = "CardsStash/PreviewContent";
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = NO;
-				INFOPLIST_FILE = CardStash/Info.plist;
+				INFOPLIST_FILE = CardsStash/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -225,7 +225,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.cardsholder.CardStash;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cardsholder.CardsStash;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -240,10 +240,10 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "CardStash/PreviewContent";
+				DEVELOPMENT_ASSET_PATHS = "CardsStash/PreviewContent";
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = NO;
-				INFOPLIST_FILE = CardStash/Info.plist;
+				INFOPLIST_FILE = CardsStash/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -251,7 +251,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.cardsholder.CardStash;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cardsholder.CardsStash;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -371,7 +371,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1E03A6C12C8AD7EA00E58B5F /* Build configuration list for PBXNativeTarget "CardStash" */ = {
+		1E03A6C12C8AD7EA00E58B5F /* Build configuration list for PBXNativeTarget "CardsStash" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1E03A6C32C8AD7EA00E58B5F /* Debug */,
@@ -380,7 +380,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1E03A6C22C8AD7EA00E58B5F /* Build configuration list for PBXProject "CardStash" */ = {
+		1E03A6C22C8AD7EA00E58B5F /* Build configuration list for PBXProject "CardsStash" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1E03A6C52C8AD7EA00E58B5F /* Debug */,

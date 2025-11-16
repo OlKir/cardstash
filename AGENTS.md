@@ -1,12 +1,12 @@
 # Repository Guidelines
 
 ## Project Structure & Module Organization
-- `CardStash/` contains all Swift sources and resources. Key folders: `Views/`, `ViewModels/`, `Models/`, `Assets.xcassets/`, and `PreviewContent/`. Keep new Swift files grouped logically (e.g., UI components in `Views`).
-- `CardStash.xcodeproj/` stores the Xcode project configuration. Scheme and build settings live here; edit via Xcode when possible.
+- `CardsStash/` contains all Swift sources and resources. Key folders: `Views/`, `ViewModels/`, `Models/`, `Assets.xcassets/`, and `PreviewContent/`. Keep new Swift files grouped logically (e.g., UI components in `Views`).
+- `CardsStash.xcodeproj/` stores the Xcode project configuration. Scheme and build settings live here; edit via Xcode when possible.
 - `DerivedData/` is generated output; do not commit or edit.
 
 ## Build, Test, and Development Commands
-- `xcodebuild -scheme CardStash -project CardStash.xcodeproj -destination generic/platform=iOS build` compiles the iOS app without running it.
+- `xcodebuild -scheme CardsStash -project CardsStash.xcodeproj -destination generic/platform=iOS build` compiles the iOS app without running it.
 - `xcodebuild … analyze` runs the static analyzer; use before submitting significant changes.
 - Launch the app via Xcode’s “Run” button targeting an iOS simulator/device for interactive testing.
 
